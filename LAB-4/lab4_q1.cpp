@@ -1,3 +1,9 @@
+/*
+ * Kishore Sourav (1711076)
+ * Programming and Data Structures Laboratory II (2018)
+ * Lab 4 Assignment
+ */
+
 #include <iostream>
 using namespace std;
 
